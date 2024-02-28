@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TimmyTimTech
-- 👀 I’m interested in Web development and Algorithms
-- 🌱 I’m currently learning Machine Learning etc
+- 👀 I’m interested in Data Science,Data Analysis and Web development.
 - 💞️ I’m looking to collaborate on Projects that might be challenging.
 - 📫 How to reach me my email is namathetim3@gmail.com
 
